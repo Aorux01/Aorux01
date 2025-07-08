@@ -14,13 +14,13 @@ I love trying new things and new projects of all kinds... even if they're comple
 - **Languages:** Node.js, Python, Java (HTML, CSS and a little bit Unity Engine...)  
 - **Frameworks:** Express.js, FastAPI  
 - **Databases:** MongoDB  
-
+<!-- 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aorux01&show_icons=true&theme=tokyonight" alt="Aorux's GitHub stats" />
-</p>
+</p> -->
 
 ---
 
