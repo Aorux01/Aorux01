@@ -5,23 +5,23 @@
 
 ### 🧑‍💻 About Me
 I'm a backend developer who enjoys creating servers and mods for video games.
-
-I love trying new things and new projects of all kinds... even if they're completely unrelated.
+I love trying new things and new projects of all kinds.
+I'm learning C# and TypeScript.
 
 ---
 
 ### ⚙️ Tech Stack
-- **Languages:** Node.js, Python, Java (HTML, CSS and a little bit Unity Engine...)  
+- **Languages:** Node.js, Python, Java, HTML, CSS, JS and a little bit Unity Engine...
 - **Frameworks:** Express.js, FastAPI  
-- **Databases:** MongoDB  
-<!-- 
+- **Databases:** MongoDB, REDIS
+<!--
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aorux01&show_icons=true&theme=tokyonight" alt="Aorux's GitHub stats" />
-</p> -->
-
+</p>
+-->
 ---
 
 ### 📫 Contact
